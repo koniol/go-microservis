@@ -1,0 +1,245 @@
+GET https://localhost/login
+Accept: application/json
+
+<> 2020-08-19T082933.200.html
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+<> 2020-08-19T082738.200.html
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+<> 2020-08-19T082707.200.html
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+<> 2020-08-18T114004.200.html
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+<> 2020-08-18T113947.200.html
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+<> 2020-08-18T113851.200.html
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+<> 2020-08-18T113820.200.html
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+<> 2020-08-18T113758.200.html
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+<> 2020-08-18T113702.200.html
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+<> 2020-08-18T113614.200.html
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+<> 2020-08-18T113329.200.html
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+<> 2020-08-18T113247.200.html
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+<> 2020-08-18T113219.200.html
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+<> 2020-08-18T112738.200.html
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+<> 2020-08-18T112606.200.html
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+<> 2020-08-18T112428.200.html
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+<> 2020-08-18T110146.200.html
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+<> 2020-08-18T110011.200.html
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+<> 2020-08-18T105852.200.html
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+<> 2020-08-18T105713.200.html
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+<> 2020-08-18T105611.200.html
+
+###
+
+GET https://localhost/login
+Accept: application/json
+
+<> 2020-08-18T105534.200.html
+
+###
+
+GET https://localhost
+Accept: application/json
+
+<> 2020-08-18T095406.200.html
+
+###
+
+POST https://httpbin.org/post
+Content-Type: application/json
+
+{
+  "id": 999,
+  "value": "content"
+}
+
+<> 2020-08-18T095324.200.json
+
+###
+
+GET https://localhost
+Accept: application/json
+
+<> 2020-08-18T095159.200.html
+
+###
+
+GET https://localhost:433
+Accept: application/json
+
+###
+
+GET http://localhost:433
+Accept: application/json
+
+###
+

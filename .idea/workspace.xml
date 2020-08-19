@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e478282-42e4-4029-afb2-c44fd62a80e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+        <option value="HTTP Public Environment File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1gHdUF7NG0EtzGk9SABpjMdrV37" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="rest.client.default.execution.environment" value="dev" />
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://localhost/login" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://localhost" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="https://httpbin.org/post" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot;: 999,&#10;  &quot;value&quot;: &quot;content&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="HTTP Request.reqest#1">
+    <configuration name="go build microservices/m" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="microservices" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="microservices/m" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestHandlers_Home in microservices/m/home (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="microservices" />
+      <working_directory value="$PROJECT_DIR$/home" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="microservices/m/home" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestHandlers_Home\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestHandlers_Home in microservices/m/home" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="microservices" />
+      <working_directory value="$PROJECT_DIR$/home" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="microservices/m/home" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestHandlers_Home$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="post-requests#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="reqest#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/reqest.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build microservices/m" />
+      <item itemvalue="Go Test.TestHandlers_Home in microservices/m/home" />
+      <item itemvalue="Go Test.TestHandlers_Home in microservices/m/home (1)" />
+      <item itemvalue="HTTP Request.post-requests#1" />
+      <item itemvalue="HTTP Request.reqest#1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.reqest#1" />
+        <item itemvalue="Go Build.go build microservices/m" />
+        <item itemvalue="Go Test.TestHandlers_Home in microservices/m/home" />
+        <item itemvalue="HTTP Request.post-requests#1" />
+        <item itemvalue="Go Test.TestHandlers_Home in microservices/m/home (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="100" key="#GOPATH" timestamp="1597775554653">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="520" y="100" key="#GOPATH/0.23.1440.824@0.23.1440.824" timestamp="1597775554653" />
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597786124088">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.824@0.23.1440.824" timestamp="1597786124088" />
+    <state x="465" y="308" key="#com.intellij.ws.actions.HttpClientConvertFromCurlDialog" timestamp="1597780343661">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="465" y="308" key="#com.intellij.ws.actions.HttpClientConvertFromCurlDialog/0.23.1440.824@0.23.1440.824" timestamp="1597780343661" />
+    <state width="699" height="205" key="GridCell.Tab.0.bottom" timestamp="1597861775154">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="699" height="205" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1597861775154" />
+    <state width="699" height="205" key="GridCell.Tab.0.center" timestamp="1597861775152">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="699" height="205" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1597861775152" />
+    <state width="699" height="205" key="GridCell.Tab.0.left" timestamp="1597861775151">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="699" height="205" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1597861775151" />
+    <state width="699" height="205" key="GridCell.Tab.0.right" timestamp="1597861775153">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="699" height="205" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1597861775153" />
+    <state width="221" height="457" key="HiddenNamespacesPopup" timestamp="1597786139037">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="221" height="457" key="HiddenNamespacesPopup/0.23.1440.824@0.23.1440.824" timestamp="1597786139037" />
+  </component>
+</project>
